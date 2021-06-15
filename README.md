@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **kylemathenia/kylemathenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![DD_gif](https://user-images.githubusercontent.com/66032082/120105175-ad86e800-c10c-11eb-8cba-682e49a0fd55.gif)
