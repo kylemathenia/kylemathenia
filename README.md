@@ -6,6 +6,10 @@
 
 
 
+
+
+
+
 ## And a rope drag simulation [app.](https://sites.google.com/view/relativelyrad/rope-drag-simulation/app-demo)
 
 
