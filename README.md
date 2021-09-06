@@ -5,7 +5,7 @@
 
 
 
-## And a cool rope drag simulator [app.](https://sites.google.com/view/relativelyrad/rope-drag-simulation/app-demo)
+## And a rope drag simulation [app.](https://sites.google.com/view/relativelyrad/rope-drag-simulation/app-demo)
 
 
 ![Rope Drag Simulator](https://media.giphy.com/media/g6vaK7HUJW7ccrwknU/giphy.gif?cid=790b761100929d86482e4bb73c2bac6caf937608ea45f0ea&rid=giphy.gif&ct=g)
