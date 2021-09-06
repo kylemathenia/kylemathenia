@@ -2,6 +2,7 @@
 
 ![Cliffs](https://media.giphy.com/media/elRmM3PfsE1s7BKTrk/giphy.gif)
 
+![Cliffs](https://media.giphy.com/media/97k0I9lZmvf5xzQK2L/giphy-downsized.gif)
 
 
 
