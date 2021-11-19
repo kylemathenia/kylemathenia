@@ -1,4 +1,7 @@
-## [The best tool](https://relativeradness.users.earthengine.app/view/cliffs) for finding cliffs in the United States.
+## The best tool for finding cliffs in the United States.
+## [Go to app.](https://relativeradness.users.earthengine.app/view/cliffs)
+## [Go to site.](https://sites.google.com/view/relativelyrad/cliff-classification/app-video)
+
 
 ![Cliffs](https://media.giphy.com/media/elRmM3PfsE1s7BKTrk/giphy.gif)
 
