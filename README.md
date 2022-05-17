@@ -1,4 +1,4 @@
-## [Cliff Classification]([https://relativeradness.users.earthengine.app/view/cliffs]
+## [Cliff Classification](https://relativeradness.users.earthengine.app/view/cliffs)
 
 ![Cliffs](https://media.giphy.com/media/elRmM3PfsE1s7BKTrk/giphy.gif)
 
