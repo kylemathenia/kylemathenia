@@ -29,4 +29,4 @@
 
 ## [Rope Simulation](https://github.com/kylemathenia/rope_sim)
 
-![head_moving](https://media.giphy.com/media/DJLv5HVLfMpvqkcDoX/giphy.gif)
+![head_moving](https://media.giphy.com/media/Re1cwEuHf5Gz7uk6fq/giphy.gif)
