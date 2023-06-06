@@ -1,3 +1,6 @@
+## [Tactile Perception](https://github.com/kylemathenia/IMML_Contactile_Gripper)
+![gripper](https://media.giphy.com/media/9kfGCiUqRPZpQja6VG/giphy-downsized.gif)
+
 ## [Cliff Classification](https://github.com/kylemathenia/Cliff-Classification)
 
 ![Cliffs](https://media.giphy.com/media/elRmM3PfsE1s7BKTrk/giphy.gif)
